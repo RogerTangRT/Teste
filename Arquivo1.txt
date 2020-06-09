@@ -2,5 +2,6 @@ Versão 6 do arquivo 1
 Linha 2 alterada
 Linha 4 Feature
 Só para andar
+Master andou com conflito
 Outra 1
 Outra 2
