@@ -1,1 +1,3 @@
 Versão 3 do arquivo 1
+Linha2
+Linha3
