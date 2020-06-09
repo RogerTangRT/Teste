@@ -3,3 +3,4 @@ Linha 2 alterada
 Linha 4 Feature
 Só para andar
 Outra 1
+Outra 2
